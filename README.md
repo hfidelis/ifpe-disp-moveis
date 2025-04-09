@@ -1,2 +1,6 @@
 # ifpe-disp-moveis
-IFPE - Programação para Dispositivos Móveis
+
+IFPE - Atividades para a cadeira: Programação para Dispositivos Móveis
+
+Discente: Heitor Fidelis
+Docente: Nilson Cândido
