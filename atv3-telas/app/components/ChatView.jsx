@@ -33,15 +33,15 @@ export default () => {
           name: 'mail-unread-sharp',
           type: 'ionicon',
           color: primary
-        }}        
+        }}
         buttonStyle={{
           borderRadius: '50%',
           height: '3rem',
           width: '3rem',
-          backgroundColor: white,          
+          backgroundColor: white,
         }}
-      />      
-      <Text        
+      />
+      <Text
         h3
         h3Style={{
           fontWeight: 500,
@@ -62,12 +62,12 @@ export default () => {
           display: 'flex',
           flexDirection: 'row',
           alignItems: 'center',
-          justifyContent: 'space-between',          
+          justifyContent: 'space-between',
         }}
       >
-        <Text        
+        <Text
           style={{
-            fontWeight: 600,            
+            fontWeight: 600,
           }}
         >
           Mark all read
@@ -130,7 +130,7 @@ export default () => {
           })
         }
       </View>
-    </View>    
+    </View>
     </>
   )
 }
