@@ -5,11 +5,19 @@
 
 # Capturas de tela
 
-<img src="screenshots/chat.png" />
+<hr>
 
-<img src="screenshots/doctors.png" />
+<img align ="center" src="screenshots/chat.png" />
 
-<img src="screenshots/trips.png" />
+<hr>
+
+<img align ="center" src="screenshots/doctors.png" />
+
+<hr>
+
+<img align ="center" src="screenshots/trips.png" />
+
+<hr>
 
 # Como executar?
 
