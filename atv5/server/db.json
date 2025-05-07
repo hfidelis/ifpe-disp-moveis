@@ -1,0 +1,168 @@
+{
+  "chats": [
+    {
+      "name": "Ana Silva",
+      "status": "Disponível para conversar agora.",
+      "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+      "unread": 2,
+      "time": "3m ago"
+    },
+    {
+      "name": "Carlos Lima",
+      "status": "Trabalhando em um projeto importante.",
+      "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+      "unread": 0,
+      "time": "5m ago"
+    },
+    {
+      "name": "Beatriz Souza",
+      "status": "No momento em uma reunião.",
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "unread": 1,
+      "time": "1h ago"
+    },
+    {
+      "name": "Diego Fernandes",
+      "status": "Voltando em 5 minutos.",
+      "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+      "unread": 3,
+      "time": "2h ago"
+    },
+    {
+      "name": "Fernanda Rocha",
+      "status": "Apenas mensagens urgentes, por favor.",
+      "avatar": "https://randomuser.me/api/portraits/women/5.jpg",
+      "unread": 0,
+      "time": "5h ago"
+    },
+    {
+      "name": "Gabriel Costa",
+      "status": "Indisponível até as 14h.",
+      "avatar": "https://randomuser.me/api/portraits/men/6.jpg",
+      "unread": 1,
+      "time": "Yesterday"
+    },
+    {
+      "name": "Juliana Mendes",
+      "status": "Trabalhando remotamente hoje.",
+      "avatar": "https://randomuser.me/api/portraits/women/7.jpg",
+      "unread": 0,
+      "time": "Yesterday"
+    },
+    {
+      "name": "Marcos Tavares",
+      "status": "Responderei assim que possível.",
+      "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+      "unread": 0,
+      "time": "Yesterday"
+    }
+  ],
+  "top-doctors": [
+    {
+      "name": "dr. Olivia Wilson",
+      "specialty": "Consultant – Physiotherapy",
+      "rating": 4.9,
+      "reviews": 37,
+      "uri": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "name": "dr. Jonathan Patterson",
+      "specialty": "Consultant – Internal Medicine",
+      "rating": 4.9,
+      "reviews": 37,
+      "uri": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    {
+      "name": "dr. Emma Brown",
+      "specialty": "Cardiologist",
+      "rating": 4.8,
+      "reviews": 42,
+      "uri": "https://randomuser.me/api/portraits/women/46.jpg"
+    },
+    {
+      "name": "dr. Michael Lee",
+      "specialty": "Pediatrician",
+      "rating": 4.7,
+      "reviews": 29,
+      "uri": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    {
+      "name": "dr. Sophia Davis",
+      "specialty": "Dentist",
+      "rating": 4.6,
+      "reviews": 51,
+      "uri": "https://randomuser.me/api/portraits/women/48.jpg"
+    },
+    {
+      "name": "dr. David Kim",
+      "specialty": "Orthopedic Surgeon",
+      "rating": 4.9,
+      "reviews": 33,
+      "uri": "https://randomuser.me/api/portraits/men/49.jpg"
+    },
+    {
+      "name": "dr. Emily Johnson",
+      "specialty": "Neurologist",
+      "rating": 4.8,
+      "reviews": 44,
+      "uri": "https://randomuser.me/api/portraits/women/50.jpg"
+    },
+    {
+      "name": "dr. James Smith",
+      "specialty": "General Practitioner",
+      "rating": 4.5,
+      "reviews": 23,
+      "uri": "https://randomuser.me/api/portraits/men/51.jpg"
+    },
+    {
+      "name": "dr. Isabella Martinez",
+      "specialty": "Dermatologist",
+      "rating": 4.7,
+      "reviews": 36,
+      "uri": "https://randomuser.me/api/portraits/women/52.jpg"
+    },
+    {
+      "name": "dr. William Johnson",
+      "specialty": "ENT Specialist",
+      "rating": 4.6,
+      "reviews": 28,
+      "uri": "https://randomuser.me/api/portraits/men/53.jpg"
+    }
+  ],
+  "popular-destinations": [
+    {
+      "id": 1,
+      "uri": "https://picsum.photos/id/1018/300/200"
+    },
+    {
+      "id": 2,
+      "uri": "https://picsum.photos/id/1015/300/200"
+    },
+    {
+      "id": 3,
+      "uri": "https://picsum.photos/id/1025/300/200"
+    },
+    {
+      "id": 4,
+      "uri": "https://picsum.photos/id/1059/300/200"
+    },
+    {
+      "id": 5,
+      "uri": "https://picsum.photos/id/1043/300/200"
+    }
+  ],
+  "recommended-destinations": [
+    {
+      "id": 6,
+      "uri": "https://picsum.photos/id/1035/400/250"
+    },
+    {
+      "id": 7,
+      "uri": "https://picsum.photos/id/1069/400/250"
+    },
+    {
+      "id": 8,
+      "uri": "https://picsum.photos/id/1040/400/250"
+    }
+  ]
+}
