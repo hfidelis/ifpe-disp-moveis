@@ -1,4 +1,6 @@
-## Atividade 4 - IFPE | Programação para Dispositivos Móveis
+## Atividade 6 - IFPE | Programação para Dispositivos Móveis
+
+### Login e Registro com Firebase
 
 **Docente: Nilson Cândido**
 **Discente: Heitor Fidelis**
