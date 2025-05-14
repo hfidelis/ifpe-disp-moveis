@@ -33,7 +33,7 @@
 ```bash
 FB_API_KEY=EXEMPLO
 FB_AUTH_DOMAIN=exemplo.firebasedapp.com
-FB_PROJECt_ID=exemplo-id
+FB_PROJECT_ID=exemplo-id
 FB_STORAGE_BUCKET=exemplo.firebasestorage.app
 FB_MESSAGING_SENDER_ID=123
 FB_APP_ID=1:2345:web:67
